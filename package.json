@@ -1,0 +1,24 @@
+{
+  "name": "clarity-workshop",
+  "version": "0.0.1",
+  "description": "Sample package for a sample repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffeedawg/clarity.git"
+  },
+  "keywords": [
+    "workshop",
+    "test-only",
+    "sample"
+  ],
+  "author": "Brian Cox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffeedawg/clarity/issues"
+  },
+  "homepage": "https://github.com/coffeedawg/clarity#readme"
+}
