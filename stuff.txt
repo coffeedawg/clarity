@@ -1,3 +1,4 @@
 MODIFIED: This has even more stuff in it.
 
 This line was added from github directly
+This line was added from the terminal
