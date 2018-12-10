@@ -1,3 +1,5 @@
 This file is for the reggie branch
 
 This is for exercise #3!!!
+
+Lorem Ipsum dolor... yada yada yada
