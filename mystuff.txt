@@ -1,1 +1,3 @@
 MODIFIED: Hello, this is stuff
+
+exercise #3 really needs this line
